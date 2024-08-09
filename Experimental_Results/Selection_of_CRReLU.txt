@@ -1,16 +1,16 @@
-Initial  $\epsilon$  selection( for 300 epochs)
+Initial  $\epsilon$  selection(for 300 epochs)
 
 ViT-Tiny:  CIFAR10——（-0.1）
-		CIFAR100——（-0.1）
+	   CIFAR100——（-0.1）
 DeiT-Tiny:  CIFAR10——（-0.1）
-		  CIFAR100——（-0.1）
+	    CIFAR100——（-0.1）
 DeiT-Base:  CIFAR10——（0.01）
-		   CIFAR100——（0.01）
+	    CIFAR100——（0.01）
 
 ResNeT-18:  CIFAR10——（0.1）
-		    CIFAR100——（0.5）
+	    CIFAR100——（0.5）
 ConvNeXT-Tiny:  CIFAR10——（-0.1）
-		            CIFAR100——（-0.5）
+	        CIFAR100——（-0.5）
 ConvNeXT-Large:  CIFAR10——（-0.5）
-		              CIFAR100——（-0.6）
+	         CIFAR100——（-0.6）
 
